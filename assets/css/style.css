@@ -1162,7 +1162,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-/*   .avatar-box { border-radius: 40px; } */
+  .avatar-box { border-radius: 30% 30% / 80% 80%; }
 
   .avatar-box img { width: 120px; }
 
