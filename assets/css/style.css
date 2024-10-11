@@ -347,7 +347,7 @@ main {
 .avatar-box {
   backdrop-filter: blur(1px); 
   overflow: hidden;
-  border-radius: 50% 80% / 70% 10%;
+  border-radius: 30% 30% / 80% 80%;
   background: transparent;
 }
   
@@ -1162,7 +1162,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 40px; }
+/*   .avatar-box { border-radius: 40px; } */
 
   .avatar-box img { width: 120px; }
 
