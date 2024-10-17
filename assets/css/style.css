@@ -347,7 +347,7 @@ main {
 .avatar-box {
   backdrop-filter: blur(1px); 
   overflow: hidden;
-  border-radius: 30% 30% / 80% 80%;
+  border-radius: inherit;
   background: transparent;
 }
   
