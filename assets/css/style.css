@@ -358,7 +358,7 @@ main {
   cursor: pointer;
 }
 .avatar-box img:hover {
-  transform: scale(1.05)
+  transform: scale(1.5)
 }
 .info-content .name {
   color: var(--white-2);
